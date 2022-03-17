@@ -1,0 +1,8 @@
+git add .
+git push
+git commit -m "my first commit"
+git checkout
+git pull
+git remote add
+git branch -M main
+git init
